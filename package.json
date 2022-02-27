@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "fahreddin rasit kilic pcat project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasitdeveloper/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Gürcan Çekiç",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasitdeveloper/PCAT/issues"
+  },
+  "homepage": "https://github.com/rasitdeveloper/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
